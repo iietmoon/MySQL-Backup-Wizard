@@ -1,0 +1,23 @@
+{
+  "name": "mysql-backup-wizard",
+  "version": "1.0.0",
+  "description": "MySQL Backup Wizard is an open-source web application powered by Node.js, designed to simplify and secure the process of backing up your MySQL database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iietmoon/MySQL-Backup-Wizard.git"
+  },
+  "keywords": [
+    "MySQL",
+    "Backup"
+  ],
+  "author": "Othmane N.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iietmoon/MySQL-Backup-Wizard/issues"
+  },
+  "homepage": "https://github.com/iietmoon/MySQL-Backup-Wizard#readme"
+}
