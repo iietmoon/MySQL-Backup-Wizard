@@ -1,0 +1,37 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file (if using dotenv)
+.env
+
+# Log files
+logs/
+*.log
+
+# OS or Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Build files (if using a build tool like Webpack)
+/dist/
+/build/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Generated files
+*.pem
+
+# Production-ready assets (if you're not versioning your built files)
+# Ignore all files in /backups directory
+/backups/*
+
+# Except .sql, .zip, .gzip, and .tar files
+!/backups/.htaccess
